@@ -1,0 +1,76 @@
+.qf-order {
+  box-sizing: border-box;
+  width: 100%;
+  padding: 8px;
+  font-size: 16px;
+  color: #333;
+}
+.qf-order a {
+  width: 100%;
+  text-decoration: none;
+}
+.qf-order a:-webkit-any-link {
+  color: inherit;
+}
+
+.qf-order-item {
+  background: #fff;
+  width: 100%;
+  margin-bottom: 8px;
+  border-radius: 2px;
+  padding: 12px;
+  box-sizing: border-box;
+}
+
+.qf-order-item-row {
+  width: 100%;
+}
+.qf-order-item-date {
+  font-size: 14px;
+}
+.qf-order-title {
+  width: 100%;
+}
+
+.qf-order-item-model {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.qf-order-item-status {
+  font-size: 16px;
+  color: #888;
+}
+
+.qf-order-item-content-1 {
+  margin-top: 12px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.qf-order-item-content-2 {
+  margin-top: 32px;
+}
+
+.qf-order-item-expired {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.qf-order-item-cost {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.qf-order-item-button {
+  margin-left: 5px;
+}
+
+.qf-order-item-footer {
+  margin-top: 12px;
+}
+.orderInfo {
+  display: inline;
+  color: #333;
+}

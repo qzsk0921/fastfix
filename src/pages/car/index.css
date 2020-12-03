@@ -1,0 +1,39 @@
+.qf-repair {
+  padding-bottom: 20px;
+}
+
+.qf-repair-list {
+  margin-top: 12px;
+  color: #333;
+  background: #fff;
+}
+
+.qf-repair-list-header {
+  box-sizing: border-box;
+  padding: 15px 15px 3px;
+  font-size: 18px;
+}
+
+.qf-repair-list-subheader {
+  font-size: 13px;
+  padding: 0 15px 3px;
+  color: #888;
+}
+
+.qf-repair-image-picker {
+  padding: 6px 10px 12px 10px;
+}
+
+.qf-repair-description, .qf-repair-remark {
+  padding: 0 15px 10px 0;
+}
+
+.qf-repair-private-tip {
+  padding: 8px 15px 15px; 
+  font-size: 13px;
+  color: #888;
+}
+
+.qf-repair-submit-button {
+  margin: 24px 12px;
+}

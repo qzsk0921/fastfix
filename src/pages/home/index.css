@@ -1,0 +1,30 @@
+.qf-home-ad {
+  width: 100%;
+  height: 60.8vw;
+  background: #999;
+  color: #fff;
+  font-size: 36px;
+}
+
+.qf-home-nav-list {
+  background: #fff;
+  padding: 8px 24px;
+  width: 100%;
+}
+
+.qf-home-nav-item {
+  font-size: 20px;
+  padding: 16px 0;
+  border-bottom: 1px solid #eee;
+  width: 100%;
+  color: #333;
+}
+
+.qf-home-nav-item:last-child {
+  border-bottom: none;
+}
+
+.qf-home-nav-item-badge {
+  top: -11px;
+  left: -2px;
+}

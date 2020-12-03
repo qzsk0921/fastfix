@@ -1,0 +1,17 @@
+.img-box {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  flex-wrap: wrap;
+  padding-left: 5px;
+}
+.img-info {
+  width: 24%;
+  height: auto;
+  margin: 5px 2px;
+}
+
+.am-list-item .am-list-line .am-list-extra {
+  white-space: normal;
+  flex: 2;
+}

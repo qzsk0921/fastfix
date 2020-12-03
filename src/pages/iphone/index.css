@@ -1,0 +1,16 @@
+.demoTitle:before,
+.demoTitle:after {
+  border-bottom: none;
+}
+.qf-repair-list{
+  position: relative;
+}
+.code-button{
+  position: absolute !important;
+  width: 100px ;
+  height: 30px;
+  right: 0px;
+  bottom: 55px;
+  line-height: 30px;
+  font-size: 12px;
+}

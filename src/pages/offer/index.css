@@ -1,0 +1,93 @@
+.qf-offer {
+  padding: 8px;
+}
+
+.qf-offer-item {
+  width: 100%;
+  background: #fff;
+  margin-bottom: 8px;
+}
+
+.qf-offer-item-header {
+  box-sizing: border-box;
+  padding: 8px 16px;
+  width: 100%;
+  font-size: 14px;
+  color: #333;
+  border-bottom: 1px solid #eee;
+}
+
+.qf-offer-item-list {
+  width: 100%;
+  padding: 0 16px;
+  box-sizing: border-box;
+}
+
+.qf-offer-item-item {
+  width: 100%;
+  padding: 16px 1px 16px 0px;
+  border-bottom: 1px solid #eee;
+}
+
+.qf-offer-item-item:last-child {
+  border-bottom: none;
+}
+
+.qf-offer-factory-avatar {
+  position: relative;
+  width: 48px;
+  height: 48px;
+  border-radius: 2px;
+}
+
+.qf-offer-factory-info {
+  flex: 1;
+  margin-left: 12px;
+}
+
+.qf-offer-factory-avatar img {
+  position: absolute;
+  left: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.qf-offer-factory-name {
+  font-size: 18px;
+  color: #333;
+}
+
+.qf-offer-factory-distance {
+  font-size: 14px;
+  color: #888;
+  padding-top: 6px;
+}
+
+.qf-offer-factory-rate {
+  font-size: 14px;
+  color: #888;
+  padding-top: 6px;
+  margin-left: 12px;
+}
+.price {
+  color: #000;
+}
+.mini-botton {
+  width: 60px;
+  height: 25px;
+  font-size: 10px;
+  line-height: 25px;
+  padding: 0 5px !important;
+}
+
+.qf-offer-item-list .link {
+  width: 100%;
+  position: relative;
+}
+
+.qf-offer-item-badge {
+  right: 0;
+  position: absolute;
+  top: 10px;
+}
